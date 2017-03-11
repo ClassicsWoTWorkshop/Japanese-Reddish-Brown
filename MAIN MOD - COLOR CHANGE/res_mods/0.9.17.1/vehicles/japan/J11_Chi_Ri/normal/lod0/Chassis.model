@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.51549 -0.000056 -3.51389</min>
+    <max>1.51549 1.1881 3.53631</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/japan/J11_Chi_Ri/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.7761 -0.000000 -2.75537</min>
+    <max>1.77371 1.23247 2.96173</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/japan/J19_Tiger_I_Jpn/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.32 -0.000150116 -3.22032</min>
+    <max>1.31872 1.34773 3.16812</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/japan/J22_Type_95/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

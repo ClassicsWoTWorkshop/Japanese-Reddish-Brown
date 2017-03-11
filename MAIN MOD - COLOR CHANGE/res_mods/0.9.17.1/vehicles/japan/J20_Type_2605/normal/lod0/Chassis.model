@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-2.02622 0.00766468 -5.06549</min>
+    <max>2.02622 1.57133 4.81326</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/japan/J20_Type_2605/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

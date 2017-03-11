@@ -1,0 +1,10 @@
+<chassis.model>
+  <nodefullVisual>vehicles/japan/J06_Ke_Ho/normal/lod0/Chassis</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.11147 0.0039374 -2.20958</min>
+    <max>1.11147 0.886183 2.12894</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</chassis.model>

@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/japan/J26_Type_89/normal/lod0/Chassis</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.04583 0.00433504 -2.17275</min>
+    <max>1.04591 1.22971 2.73463</max>
+  </visibilityBox>
+</chassis.model>

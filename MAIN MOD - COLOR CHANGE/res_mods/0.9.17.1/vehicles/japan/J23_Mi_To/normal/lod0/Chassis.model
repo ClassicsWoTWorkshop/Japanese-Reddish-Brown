@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-2.08636 0.00772583 -4.28525</min>
+    <max>2.08635 1.48685 4.52569</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/japan/J23_Mi_To/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
