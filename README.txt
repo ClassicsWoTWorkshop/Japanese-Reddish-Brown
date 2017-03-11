@@ -10,8 +10,6 @@ Optional:
 
 IMPORTANT NOTE: Only the tanks that are currently in HD have the color swap. The non-HD tanks still have their default green color. Since WG is going to rework them into HD at some point anyways, I'd rather not have to re-do the mod twice for those tanks. Plus, the color shows up weird since they use the old model/texture system.
 
-I included preview images in the download ZIP file for both if you'd like to have a look before you install.
-
 Enjoy!
 
 - FastestClassic
