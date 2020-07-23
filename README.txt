@@ -1,12 +1,24 @@
 Thank you for downloading!
 
-This mod changes the color of the HD Japanese tanks from their default green to a beige/sandy color, inspired by the pre-release colors.
-Included are skins for all the HD Japanese tanks, matching icons for the garage and tech tree, and two optional flag change mods.
+This mod changes the color of the Japanese tanks from their default green to a reddish-brown color, inspired by the pre-release color from the 0.8.10 Common Test.
+Includes skin for all Japanese tanks, matching icons for the garage and tech tree, two optional flag change mods, and support for my Dakka Improvement Project.
+
+
 
 To install:
-- Drag the files from inside the MAIN MOD - COLOR CHANGE folder to <Your WoT Install Directory>\res_mods\<version> (example: C:\Games\World_of_Tanks\res_mods\0.9.20.0).
+- Drop the "CWW-RecolorPack-Japanese-Reddish-Brown" folder from inside the "MAIN MOD - COLOR CHANGE" folder into <Your WoT Directory\mods\<Game Version> (example: C:\Games\World_of_Tanks\mods\1.9.1.2).
+
+
+
+<<<IMPORTANT NOTE FOR DAKKA PROJECT USERS>>> 
+- If you want this pack to display correctly with my Dakka Improvement Project pack, you will need to drag the "vehicles" folder from inside "ADDON - DAKKA PROJECT SUPPORT" folder to <Your WoT Install>\RES_mods\<Game Version>. (Example: C:\Games\World_Of_Tanks\res_mods\1.9.1.2)
+
+
+
 Optional:
-- If you want to also change the default Japanese flag (which might not be completely historical, but I still like it), drag the "res_mods" folder from inside the ADDON - FLAG CHANGE folder of your choice to <Your WoT Folder>\mods\<Game Version> (Example: C:\Games\World_Of_Tanks\mods\0.9.19.0.2). I included preview images for each flag, so you can see what to expect.
+- If you want to also change the default Japanese flag emblems, drag the "mods" folder from inside the "ADDON - FLAG CHANGE" folder of your choice to <Your WoT Directory>\mods\<Game Version> (Example: C:\Games\World_Of_Tanks\mods\1.9.1.2). Preview images are included in each folder.
+
+
 
 Enjoy!
 
